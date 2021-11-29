@@ -18,8 +18,6 @@ This chat app only allows google and facebook sign in.
 * Rest APIs
 * Environment Variables
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
-
 Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
 
 ### Bonus - E-mail notifications
