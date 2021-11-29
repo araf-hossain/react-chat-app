@@ -1,10 +1,22 @@
-# Unichat Application
+# React Chat App
 
 ![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+This chat app only allows google and facebook sign in. 
+
+## Materials
+* Chat Engine - https://chatengine.io
+* Firebase - https://firebase.google.com
+
+## Learned 
+* Routing
+* Social Auth
+* React Context
+* Chat Engine
+* Rest APIs
+* Environment Variables
 
 You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
 
